@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MiPrimerAplicacionAndroid</string>
+    <string name="activity_principal">Actividad Home</string>
+</resources>
